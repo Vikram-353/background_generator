@@ -1,0 +1,24 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(0,0,0,.6);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    background: linear-gradient(to left,red,yellow,pink);
+}
+h1{
+    font: 600 3.5em;
+    font-weight: 900;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(0,0,0,.6);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+    width: 100%;
+}
